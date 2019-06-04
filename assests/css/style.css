@@ -7,13 +7,20 @@
 
 .top-cloud{
     position: relative;
-    left: 250px;
+    left: 20.63%;
     top: 50px;
+    width: 15%;
+
+}
+
+.mountain {
+    width: 50%;
 }
 .bottom-cloud{
     position: absolute;
-    top: 50%;
+    bottom: 30%;
     left: 20%;
+    width: 15%;
 }
 
 .greeting-container {
@@ -23,6 +30,7 @@
 
 .greeting { 
     margin-top: 50px;
+    font-size: 312%;
     padding: 0px;
     line-height: 1;
     
