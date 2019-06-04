@@ -43,6 +43,9 @@
 }
 
 /* Middle */
+.skills {
+    margin-bottom: 80px;
+}
 .skill-row {
     margin: 50px auto;
     width: 75%;
@@ -111,9 +114,10 @@
 }
 
 .copyrait {
-    color: whitesmoke;
+    color: #9FCBC9;
     margin-bottom: 0;
     padding-bottom: 16px;
+    font-weight: bold;
 }
 
 .footer-link {
